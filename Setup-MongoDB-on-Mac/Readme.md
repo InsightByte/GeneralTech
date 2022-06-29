@@ -1,6 +1,7 @@
 
+## How to install MongoDB on Mac 
 
-Install the Xcode command-line tools by running the following command in your macOS Terminal:
+#### Install the Xcode command-line tools by running the following command in your macOS Terminal:
 
 ```xcode-select --install```
 
