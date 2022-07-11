@@ -29,13 +29,16 @@
 ```brew services list```
 
 #### How to connect to a MongoDB 
-This will use the default mongodb port
+##### This will use the default mongodb port
 
 ```mongo```
 
-To use the mongo shell with custom port 
+##### To use the mongo shell with custom port 
 
 ```mongo --port <your port name>```
+
+
+
 
 
 
